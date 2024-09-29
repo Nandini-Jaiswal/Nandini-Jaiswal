@@ -40,6 +40,12 @@
 I was a summer intern at [Coriolis Technologies](https://www.coriolis.co.in/) for MAY-JULY 2024. I will be soon adding the report explaining my summer internship project on Web UI Automation.
 <br><br><br>
 
+---
+# My Hacktoberfest 2024 gallery!
+
+[![Hacktoberfest 2024](https://holopin.me/nandinijaiswal)](https://holopin.io/@nandinijaiswal)
+
+
 **My activity on GitHub:**
 
   
@@ -49,8 +55,3 @@ I was a summer intern at [Coriolis Technologies](https://www.coriolis.co.in/) fo
 </div>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini-Jaiswal&theme=gruvbox-light" alt="Nandini-Jaiswal" align="right" /></p>
-
-
-
-
-
